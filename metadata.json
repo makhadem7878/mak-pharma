@@ -1,0 +1,6 @@
+{
+  "name": "MAK Pharma BD",
+  "description": "Retail pharmacy management system with POS, FEFO batch inventory, expiry alerts, purchases, customer dues, and bilingual Bangla-English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
